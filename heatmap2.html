@@ -35,21 +35,16 @@
 					$.ajax({
 					    'async': false,
 					    'global': false,
-					    'url': "data/bournemouth_simplified.json",
+					    'url': "data/bournemouth_grid.json",
 					    'dataType': "json",
 					    'success': function (data) {
 						json = data;
-					    },
-					    'error': function(e){
-						console.log(e);
 					    }
 					});
 					return json;
 				    })();
 
-				if(data==null){
-					alert("Data cannot be loaded!");
-				}
+				console.log(data);
 
 				var baseLayer = L.tileLayer(
 				  'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{
