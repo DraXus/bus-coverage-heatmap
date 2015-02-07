@@ -1,0 +1,405 @@
+ATCOCode,Easting,Northing,Lon,Lat,CommonName,Identifier,Direction,Street,Landmark,NatGazID,NatGazLocality,StopType,"Stop type, name",Icon colour
+1290BOA05342,414588,91574,-1.7947,50.7236,St Catherines Road,,N,Belle Vue Road,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOA05343,414663,91795,-1.79363,50.72558,Belle Vue Crescent,,N,Belle Vue Road,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOA05711,412621,93894,-1.82249,50.74451,Littledown Centre,,NE,Chaseside,,E0035378,Littledown (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOA05736,408424,90803,-1.88205,50.71678,Kerley Road,opp,W,Priory Road,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOA05737,408455,90801,-1.88161,50.71677,Beacon Road,,E,Priory Road,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOA05738,407690,91420,-1.89243,50.72234,Midland Hotel,,N,Queens Road,,N0073122,West Cliff (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOA05784,408396,91109,-1.88244,50.71954,Terrace Road,,E,Terrace Road,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOA05819,408683,91150,-1.87837,50.7199,Gervis Place,Stand P,SE,Gervis Place,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOA05821,411542,91845,-1.83785,50.7261,Hawkwood Road Car Park,,W,Hawkwood Road,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOA05841,411675,92010,-1.83596,50.72758,Ashley Road,,E,Christchurch Road,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOA05842,409668,91384,-1.86441,50.72199,Lansdowne (unilinx),,W,Christchurch Road,,N0077769,Lansdowne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOA05874,408610,93478,-1.87935,50.74084,Winton Banks,,N,Wimborne Road,,E0035402,Winton (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOA05875,409019,91445,-1.8736,50.72255,Horseshoe Common,,E,Old Christchurch Road,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOA05876,408889,91300,-1.87545,50.72125,Burlington Arcade,,NE,St Peters Road,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOA05882,408598,93309,-1.87952,50.73932,Winton Banks,,S,Wimborne Road,,E0035402,Winton (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOA05900,412743,94034,-1.82076,50.74576,The Royal Bournemouth Hospital,,NE,Castle Lane,,E0035378,Littledown (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOA05917,409562,91452,-1.86591,50.7226,Lansdowne,,NE,Holdenhurst Road,,N0077769,Lansdowne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOA05936,408073,91116,-1.88701,50.7196,Poole Hill,,W,Poole Hill,,N0073122,West Cliff (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOA05968,410449,94692,-1.85325,50.75172,Bournemouth School For Girls,,NW,Castle Gate Close,,E0035367,Charminster (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOA56550,409578,91710,-1.86568,50.72492,Purbeck House,opposite,NE,Oxford Road,,N0077769,Lansdowne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOA56551,409528,91605,-1.86639,50.72398,Purbeck House,outside,SW,Oxford Road,,N0077769,Lansdowne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOA56561,408048,96865,-1.88724,50.7713,Kinson Park Road,,NW,New Road,,E0035382,Northbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOA56562,408189,94861,-1.88529,50.75328,Redhill Drive,opp 189,SW,Redhill Drive,,E0035386,Redhill (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOA56563,408631,95717,-1.879,50.76097,Pine Vale Crescent,,SW,Redhill Drive,,E0035386,Redhill (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOA56568,412209,93262,-1.82835,50.73883,Avonbourne School,,SW,School Grounds,Avonbourne School,E0035378,Littledown (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOA56569,409437,91719,-1.86767,50.72501,Cranborne House,,N,Lansdowne Road,Cranborne House,N0077769,Lansdowne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOA56570,409464,91670,-1.86729,50.72456,Cranborne House,,S,Lansdowne Road,Cranborne House,N0077769,Lansdowne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOA90806,413034,93904,-1.81664,50.74459,Tesco,,E,Riverside Avenue,,E0035378,Littledown (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOA90807,407877,90989,-1.88979,50.71846,Durley Chine Road,,NW,Durley Chine Road,,N0073122,West Cliff (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20205,414838,91959,-1.79115,50.72705,Brightlands Avenue,,SE,Broadway,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20206,415107,91751,-1.78734,50.72517,Nugent Road,,NW,Broadway,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20207,415161,91728,-1.78658,50.72497,Nugent Road,,SE,Broadway,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20208,415385,91560,-1.78341,50.72345,Kingsley Avenue,,SE,Broadway,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20209,415377,91547,-1.78353,50.72333,Kingsley Avenue,,NW,Broadway,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20210,415526,91455,-1.78142,50.7225,Broadway Shops,,SE,Broadway,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20211,415501,91456,-1.78177,50.72251,Broadway Shops,,NW,Broadway,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20213,415746,91223,-1.77831,50.72041,St Nicholas Church,,N,Southbourne Coast Road,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20214,415725,91219,-1.77861,50.72037,St Nicholas Church,,NE,Southbourne Coast Road,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20215,415394,91041,-1.78331,50.71878,Point House Cafe,,E,Southbourne Coast Road,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20216,415293,91033,-1.78474,50.71871,Point House Cafe,,NW,Dalmeny Road,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20217,415355,91159,-1.78385,50.71984,Hengistbury Road,,NE,Harbour Road,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20218,415381,91174,-1.78349,50.71998,Hengistbury Road,,SW,Harbour Road,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20219,415449,91288,-1.78252,50.721,Baring Road,,NE,Harbour Road,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20220,415480,91312,-1.78208,50.72122,Baring Road,,SW,Harbour Road,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20222,414793,91947,-1.79178,50.72695,Broadway,,SW,Belle Vue Road,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20223,414664,91766,-1.79362,50.72532,Belle Vue Crescent,,SW,Belle Vue Road,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20224,414598,91553,-1.79456,50.72341,Twynham Road,,S,Belle Vue Road,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20225,414518,91524,-1.7957,50.72315,Twynham Road,,N,Foxholes Road,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20226,414491,91667,-1.79607,50.72443,Guild Hill Road,,N,Foxholes Road,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20227,414604,91828,-1.79447,50.72588,Southlea Avenue,,E,Foxholes Road,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20228,414503,91398,-1.79591,50.72202,Church Road,,SW,Belle Vue Road,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20229,414398,91371,-1.7974,50.72178,Belle Vue Mansions,,E,Belle Vue Road,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20230,414411,91226,-1.79722,50.72047,Car Park,,E,St Catherine's Road,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20232,414733,91152,-1.79267,50.7198,Warren Edge Close,,E,Southbourne Coast Road,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20233,414759,91131,-1.7923,50.71961,Warren Edge Close,,W,Southbourne Coast Road,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20234,415052,91108,-1.78815,50.71939,Stevenson Road,,E,Southbourne Coast Road,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20235,415077,91088,-1.7878,50.71921,Stevenson Road,,NW,Southbourne Coast Road,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20236,415220,91093,-1.78577,50.71925,Dalmeny Road,,E,Dalmeny Road,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20237,415168,91150,-1.7865,50.71977,Dalmeny Road,,W,Dalmeny Road,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20238,415003,91267,-1.78884,50.72082,Willdown Road,,NW,Church Road,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20240,414995,91296,-1.78895,50.72109,Willdown Road,,NW,Church Road,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20241,414788,91329,-1.79188,50.72139,St Catherines Road,,E,Church Road,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20242,414734,91329,-1.79264,50.72139,St Catherines Road,,W,Church Road,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20244,414560,91401,-1.79511,50.72204,Church Road,,E,Church Road,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20245,414255,91247,-1.79943,50.72066,Southbourne Cross Roads,,W,Southbourne Overcliff Drive,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20246,413881,91321,-1.80473,50.72134,Marine Road,,W,Southbourne Overcliff Drive,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20247,413841,91338,-1.8053,50.72149,Marine Road,,S,Marine Road,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20248,413675,91314,-1.80765,50.72128,Grange Hotel,,E,Southbourne Overcliff Drive,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20249,413654,91302,-1.80795,50.72117,Grange Hotel,opposite,W,Southbourne Overcliff Drive,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20250,413466,91344,-1.81061,50.72155,Stourwood Avenue,,W,Southbourne Overcliff Drive,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20251,413435,91360,-1.81105,50.7217,Stourwood Avenuee,,E,Southbourne Overcliff Drive,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20252,413270,91338,-1.81338,50.72151,Southwood Avenue,,W,Southbourne Overcliff Drive,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20253,413239,91356,-1.81382,50.72167,Southwood Avenue,,E,Southbourne Overcliff Drive,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20254,413067,91370,-1.81626,50.7218,Fishermans Walk,East Cliff,E,Southbourne Overcliff Drive,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20255,413034,91364,-1.81673,50.72174,Fishermans Walk,East Cliff,W,Southbourne Overcliff Drive,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20256,412620,91373,-1.82259,50.72183,Ravine Road,,W,Boscombe Overcliff Drive,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20257,412652,91393,-1.82214,50.72201,Ravine Road,,E,Boscombe Overcliff Drive,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20258,412403,91384,-1.82567,50.72194,Woodland Bowling Club,opposite,W,Boscombe Overcliff Drive,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20259,412340,91399,-1.82656,50.72207,Woodland Bowling Club,,E,Boscombe Overcliff Drive,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20260,412032,91353,-1.83092,50.72167,Shelley Park,,W,Boscombe Overcliff Drive,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20261,412000,91365,-1.83137,50.72178,Shelley Park,,E,Boscombe Overcliff Drive,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20262,411674,91381,-1.83599,50.72193,Wollstonecraft Road,,E,Boscombe Cliff Road,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20263,411644,91365,-1.83642,50.72178,Wollstonecraft Road,,W,Boscombe Cliff Road,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20264,411451,91413,-1.83915,50.72222,Michelgrove Road,,E,Boscombe Cliff Road,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20265,411411,91389,-1.83972,50.722,San Remo Towers,Opp,S,Michelgrove Road,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20266,411162,91182,-1.84325,50.72015,Boscombe Pier,,S,Sea Road,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20267,411138,91195,-1.84359,50.72026,Boscombe Pier,,NE,Pier Approach,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20268,411264,91391,-1.8418,50.72202,Marina Court,,NE,Sea Road,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20269,411324,91426,-1.84095,50.72234,San Remo Towers,,SW,Sea Road,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20271,411343,91542,-1.84068,50.72338,Percy Road,,N,Sea Road,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20272,411354,91550,-1.84052,50.72345,Percy Road,,S,Sea Road,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20273,411526,91851,-1.83807,50.72616,Sainsburys Supermarket,,E,Hawkwood Road,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20297,414324,91351,-1.79845,50.7216,Southbourne Cross Roads,,NW,Belle Vue Road,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20298,414276,91377,-1.79913,50.72183,Southbourne Cross Roads,,E,Belle Vue Road,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20299,414049,91408,-1.80235,50.72212,Avoncliffe Road,,W,Belle Vue Road,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20300,414013,91425,-1.80286,50.72227,Avoncliffe Road,,SE,Belle Vue Road,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20301,413754,91546,-1.80652,50.72336,Clifton Road,,N,Belle Vue Road,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20302,413742,91628,-1.80669,50.7241,Tuckton Corner,,S,Belle Vue Road,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20303,413662,91713,-1.80782,50.72487,Tuckton Corner,,W,Southbourne Road,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20310,411524,92055,-1.8381,50.72799,Boscombe Bus Station,Bay C,NW,Ashley Road,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20312,411530,92075,-1.83801,50.72817,Boscombe Bus Station,Bay A,W,Ashley Road,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20313,411537,92071,-1.83791,50.72813,Boscombe Bus Station,Bay A,NW,Ashley Road,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20314,411549,92087,-1.83774,50.72828,Boscombe Bus Station,,SE,Ashley Road,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20315,411419,92088,-1.83958,50.72829,Sovereign Centre,,W,Centenery Way,Rear of Sovereign Centre,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20316,411475,92182,-1.83879,50.72913,Centenary Way,,SE,Ashley Road,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20317,411363,92308,-1.84037,50.73027,Portman Hotel,,NW,Ashley Road,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20320,411420,92254,-1.83956,50.72978,Portman Hotel,,SE,Ashley Road,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20348,409887,92872,-1.86127,50.73537,St Leonards Road,,W,Capstone Road,,E0035367,Charminster (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20349,409840,92904,-1.86193,50.73566,St Leonards Road,,E,Capstone Road,,E0035367,Charminster (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20350,409662,92980,-1.86445,50.73634,Richmond Arms,,E,Capstone Road,,E0035367,Charminster (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20351,409626,92981,-1.86496,50.73635,Richmond Arms,,NW,Capstone Road,,E0035367,Charminster (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20373,408236,91221,-1.8847,50.72055,The Triangle,Stand F,SE,The Triangle,,N0073122,West Cliff (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20374,408251,91212,-1.88449,50.72046,The Triangle,Stand E,SE,The Triangle,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20375,408268,91203,-1.88425,50.72038,The Triangle,Stand D,SE,The Triangle,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20376,408286,91191,-1.88399,50.72027,The Triangle,Stand C,NE,Avenue Lane,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20377,408301,91181,-1.88378,50.72018,The Triangle,Stand B,SE,Commercial Road,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20378,408287,91145,-1.88398,50.71986,The Triangle,Stand A,SW,Commercial Road,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20379,408220,91186,-1.88493,50.72023,The Triangle,Stand I,E,The Triangle,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20380,408241,91190,-1.88463,50.72027,The Triangle,Stand H,NW,The Triangle,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20381,408259,91194,-1.88438,50.7203,The Triangle,Stand G,E,The Triangle,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20382,408239,91174,-1.88466,50.72012,The Triangle,Stand K,W,The Triangle,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20383,408221,91169,-1.88491,50.72008,The Triangle,Stand J,W,The Triangle,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20384,408548,91070,-1.88028,50.71918,Exeter Road,Stand LL,N,Exeter Road,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20385,408622,91174,-1.87923,50.72012,Gervis Place,Stand M,W,Gervis Place,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20386,408639,91170,-1.87899,50.72008,Gervis Place,Stand N,W,Gervis Place,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20387,408652,91164,-1.87881,50.72003,Gervis Place,Stand O,W,Gervis Place,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20388,408680,91152,-1.87841,50.71992,Gervis Place,Stand P,SE,Gervis Place,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20389,408701,91143,-1.87812,50.71984,Gervis Place,Stand Q,E,Gervis Place,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20390,408723,91139,-1.8778,50.7198,Gervis Place,Stand R,E,Gervis Place,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20391,408744,91137,-1.87751,50.71978,Gervis Place,Stand S,E,Gervis Place,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20392,408871,91166,-1.87571,50.72004,St Peters Church,Stand AA,SE,Hinton Road,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20393,409068,91017,-1.87292,50.7187,Hinton Road Top,,SE,Hinton Road,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20394,408871,91026,-1.87571,50.71878,Westover Road,,NW,Westover Road,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20396,408753,91122,-1.87738,50.71965,Gervis Place,Stand T,W,Gervis Place,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20397,408730,91122,-1.87771,50.71965,Gervis Place,Stand U,W,Gervis Place,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20398,408709,91125,-1.878,50.71968,Gervis Place,Stand V,W,Gervis Place,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20400,408667,91142,-1.8786,50.71983,Gervis Place,Stand W,NW,Gervis Place,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20401,408656,91148,-1.87875,50.71988,Gervis Place,Stand X,NW,Gervis Place,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20402,408640,91154,-1.87898,50.71994,Gervis Place,Stand Y,W,Gervis Place,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20403,408624,91159,-1.87921,50.71998,Gervis Place,Stand Z,W,Gervis Place,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20404,408775,90784,-1.87708,50.71661,Bournemouth Pier,Stand BB,NW,Exeter Road,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20405,408778,90773,-1.87703,50.71651,Bournemouth Pier,Stand CC,NW,Exeter Road,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20406,408757,90792,-1.87733,50.71668,Bournemouth Pier,Stand DD,NW,Exeter Road,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20407,408769,90808,-1.87716,50.71682,Bournemouth Pier,Stand HH,SE,Exeter Road,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20408,409005,90833,-1.87382,50.71704,Royal Bath Hotel,,SW,Bath Road,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20409,409201,91124,-1.87103,50.71966,Top of Bath Hill,,NE,Bath Road,Belvedere Hotel,N0077769,Lansdowne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20410,409240,91118,-1.87048,50.7196,Top of Bath Hill,,NW,Bath Road,,N0077769,Lansdowne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20411,409422,91303,-1.8679,50.72127,Lansdowne,,NE,Bath Road,,N0077769,Lansdowne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20412,409430,91295,-1.86778,50.72119,Lansdowne,,SW,Bath Road,,N0077769,Lansdowne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20413,409613,91393,-1.86519,50.72207,Lansdowne,,E,Christchurch Road,,N0077769,Lansdowne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20414,409614,91378,-1.86518,50.72194,Lansdowne,,W,Christchurch Road,,N0077769,Lansdowne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20415,409834,91406,-1.86206,50.72218,St Swithuns Roundabout,,E,Christchurch Road,,N0077769,Lansdowne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20416,409555,91441,-1.86601,50.7225,Lansdowne,,NE,Holdenhurst Road,,N0077769,Lansdowne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20417,409568,91432,-1.86583,50.72242,Lansdowne,,SW,Holdenhurst Road,,N0077769,Lansdowne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20418,409575,91442,-1.86573,50.72251,Lansdowne,,SW,Holdenhurst Road,,N0077769,Lansdowne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20419,409569,91463,-1.86581,50.7227,Lansdowne,,NE,Holdenhurst Road,,N0077769,Lansdowne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20420,409706,91673,-1.86386,50.72459,Unisys,,NE,Holdenhurst Road,Unisys,N0077769,Lansdowne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20422,409723,91665,-1.86362,50.72452,Unisys,,SW,Holdenhurst Road,Unisys,N0077769,Lansdowne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20423,409974,91444,-1.86007,50.72252,St Swithuns Roundabout,,E,Christchurch Road,,N0077769,Lansdowne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20424,410252,91462,-1.85614,50.72268,Derby Road,,W,Christchurch Road,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20425,410329,91488,-1.85504,50.72291,Derby Road,,E,Christchurch Road,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20426,410491,91491,-1.85275,50.72294,Lynton Court,,W,Christchurch Road,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20427,410511,91507,-1.85246,50.72308,Lynton Court,,E,Christchurch Road,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20428,410769,91563,-1.84881,50.72358,Boscombe Gardens,,NE,Christchurch Road,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20430,411115,91776,-1.8439,50.72549,Boscombe Crescent,,E,Christchurch Road,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20431,411288,91898,-1.84145,50.72658,Palmerston Road,,N,Palmerston Road,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20432,411261,91820,-1.84183,50.72588,Palmerston Road,,W,Christchurch Road,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20433,411098,91710,-1.84414,50.7249,Boscombe Crescent,,S,St John's Road,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20434,411053,91731,-1.84478,50.72509,Boscombe Crescent,,W,Christchurch Road,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20435,410786,91557,-1.84857,50.72353,Boscombe Gardens,,SW,Christchurch Road,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20436,410672,91208,-1.85019,50.72039,Putting Green,,E,East Overcliff Drive,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20437,410656,91189,-1.85042,50.72022,Putting Green,,W,East Overcliff Drive,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20438,410405,91126,-1.85398,50.71966,Toft Steps,,W,East Overcliff Drive,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20439,410407,91138,-1.85395,50.71976,Toft Steps,,E,East Overcliff Drive,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20440,410113,91066,-1.85812,50.71912,Cottonwood Hotel,,W,East Overcliff Drive,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20441,410084,91076,-1.85853,50.71921,Cottonwood Hotel,,E,East Overcliffe Drive,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20442,409622,90981,-1.86507,50.71837,East Cliff Lift,,E,East Overcliff Drive,,N0077769,Lansdowne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20443,409596,90966,-1.86544,50.71823,East Cliff Lift,,W,East Overcliff Drive,,N0077769,Lansdowne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20444,409255,90893,-1.87027,50.71758,Russell Cotes Museum,,E,East Cliff Promenade,,N0077769,Lansdowne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20445,408868,91231,-1.87575,50.72063,St Peters Church,,SW,St Peters Road,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20446,408877,91288,-1.87562,50.72114,Burlington Arcade,,NE,St Peters Road,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20447,408981,91347,-1.87414,50.72167,The Zoo and Cage,,S,Fir Vale Road,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20448,408976,91472,-1.87421,50.72279,Horseshoe Common,,N,Dean Park Crescent,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20449,409028,91446,-1.87348,50.72256,Horseshoe Common,,E,Old Christchurch Road,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20450,409228,91595,-1.87064,50.72389,Coppen Court,,NE,Madeira Road,,N0077769,Lansdowne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20451,409233,91579,-1.87057,50.72375,Coppen Court,,SW,Madeira Road,,N0077769,Lansdowne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20452,409233,91404,-1.87057,50.72218,Wootton Gardens,,E,Old Christchurch Road,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20453,409200,91384,-1.87104,50.722,Wootton Gardens,,W,Old Christchurch Road,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20487,408805,91494,-1.87663,50.72299,Marshall Point,,NE,Richmond Gardens,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20488,408840,91519,-1.87614,50.72322,Top of Dean Park Crescent,,SW,Dean Park Crescent,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20489,408734,91454,-1.87764,50.72263,Top of Richmond Hill,,NW,Richmond Hill,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20490,408693,91374,-1.87822,50.72191,Echo Office,,S,Richmond Hill,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20491,408549,91269,-1.88027,50.72097,Hampshire Court,,SE,Bourne Avenue,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20493,408488,91203,-1.88113,50.72038,Boots,,W,Commercial Road,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20494,408320,91279,-1.88351,50.72107,Marks and Spencer,,SW,Avenue Road,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20495,408018,91107,-1.88779,50.71952,Poole Hill,,W,Poole Hill,,N0073122,West Cliff (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20496,407799,91167,-1.89089,50.72007,St Michaels Roundabout,,N,Poole Road,,N0073122,West Cliff (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20497,407924,91172,-1.88912,50.72011,St Michaels Church,,E,Poole Road,,N0073122,West Cliff (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20498,408072,91135,-1.88703,50.71977,Poole Hill,,E,Poole Hill,,N0073122,West Cliff (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20499,408353,91301,-1.88304,50.72126,Marks and Spencers,Opp,E,Avenue Road,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20500,408543,91253,-1.88035,50.72083,Bourne Avenue,Stand EE,NW,Bourne Avenue,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290BOB20512,406975,91894,-1.90255,50.72661,Ipswich Road,,E,Surrey Road,,E0035400,Westbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20513,406993,91862,-1.9023,50.72633,Ipswich Road,,NW,Surrey Road,,E0035400,Westbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20514,407142,91756,-1.90019,50.72537,Surrey Road,O/s No 64,E,Prince of Wales Road,,E0035400,Westbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20515,407179,91750,-1.89966,50.72532,Surrey Road,O/s No 37,E,Prince of Wales Road,,E0035400,Westbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20516,407312,91696,-1.89778,50.72483,Surrey Gardens,O/s No 31,E,Surrey Road,,E0035400,Westbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20517,407298,91689,-1.89798,50.72477,Surrey Gardens,O/s No 58,W,Surrey Road,,E0035400,Westbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20518,407506,91621,-1.89503,50.72415,Surrey Road South,,E,Surrey Road,,E0035400,Westbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20519,407492,91611,-1.89523,50.72406,Surrey Road South,,W,Surrey Road,,E0035400,Westbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20520,407661,91611,-1.89284,50.72406,Queens Road,,E,Surrey Road,,E0035400,Westbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20521,407641,91600,-1.89312,50.72396,Queens Road,,W,Surrey Road,,E0035400,Westbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20522,407761,91224,-1.89143,50.72058,Queens Road,,E,Poole Road,,N0073122,West Cliff (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20523,407604,91264,-1.89365,50.72094,Westbourne Eye Hospital,,W,Queen's Road,,E0035400,Westbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20524,407591,91282,-1.89384,50.7211,Queens Road (restricted Use),,E,Poole Road,,E0035400,Westbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20525,407390,91351,-1.89668,50.72173,Netherhall Gardens,,E,Poole Road,,E0035400,Westbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20526,407362,91348,-1.89708,50.7217,Netherhall Gardens,,W,Poole Road,,E0035400,Westbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20527,407207,91400,-1.89927,50.72217,Grand Bingo,,W,Poole Road,,E0035400,Westbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20528,407135,91439,-1.90029,50.72252,Grand Bingo,,E,Poole Road,,E0035400,Westbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20529,407052,91409,-1.90147,50.72225,The Westbourne,,SW,Seamoor Road,,E0035400,Westbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20530,406937,91381,-1.9031,50.722,Westbourne Post Office,,W,Seamoor Road,,E0035400,Westbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20531,406879,91402,-1.90392,50.72219,Westbourne Hogs Head,,W,Seamoor Road,,E0035400,Westbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20532,406890,91523,-1.90376,50.72328,Westbourne Arcade,,W,Poole Road,,E0035400,Westbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20533,407035,91382,-1.90171,50.72201,Westbourne Library,,S,Alum Chine Road,,E0035400,Westbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20534,406986,91113,-1.90241,50.71959,Alum Chine Road,,S,Alum Chine Road,,E0035400,Westbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20535,406978,91129,-1.90252,50.71973,Alum Chine Road,,N,Alum Chine Road,,E0035400,Westbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20536,406870,91153,-1.90405,50.71995,RL Stevenson Ave,,N,RL Stevenson Avenue,,E0035400,Westbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20539,406807,91414,-1.90494,50.7223,Hogs Head,,S,Alumhurst Road,,E0035400,Westbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20540,406798,91239,-1.90507,50.72073,Westbourne Day Centre,,S,Alumhurst Road,,E0035400,Westbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20541,406805,90894,-1.90498,50.71762,Warren Road,,NW,Alumhurst Road,,E0035400,Westbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20542,406835,90768,-1.90456,50.71649,Herbert Road,,S,Alumhurst Road,,E0035400,Westbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20544,406871,90602,-1.90405,50.715,Alumdale Road,,S,Alumhurst Road,,N0073122,West Cliff (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20545,406964,90404,-1.90274,50.71321,Beaulieu Road,,SE,Alumhurst Road,,N0073122,West Cliff (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20546,407105,90223,-1.90074,50.71159,Crosby Road,,SE,Alumhurst Road,,N0073122,West Cliff (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20547,407178,90147,-1.89971,50.7109,Sandbourne Road,,E,Alumhurst Road,,N0073122,West Cliff (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20548,407286,90160,-1.89818,50.71102,Studland Road,,E,Alumhurst Road,,N0073122,West Cliff (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20549,407362,90292,-1.8971,50.7122,Alum Chine,,SE,Alumhurst Road,,N0073122,West Cliff (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20550,407267,90140,-1.89845,50.71084,Studland Road,,W,Alumhurst Road,,N0073122,West Cliff (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20551,407187,90131,-1.89958,50.71076,Sandbourne Road,,W,Alumhurst Road,,N0073122,West Cliff (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20552,407100,90212,-1.90081,50.71149,Crosby Road,,NW,Alumhurst Road,,N0073122,West Cliff (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20553,406946,90405,-1.90299,50.71322,Beaulieu Road,,NW,Alumhurst Road,,N0073122,West Cliff (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20554,406865,90575,-1.90413,50.71475,Alumdale Road,,N,Alumhurst Road,,N0073122,West Cliff (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20555,406832,90687,-1.9046,50.71576,Herbert Road,,N,Alumhurst Road,,N0073122,West Cliff (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20556,406780,90956,-1.90533,50.71818,Warren Road,,N,Alumhurst Road,,E0035400,Westbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20557,407112,90893,-1.90063,50.71761,St Ambrose Church,,S,West Overcliff Drive,,E0035400,Westbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20558,407163,90596,-1.89991,50.71494,Suspension Bridge,,SE,West Overcliffe Drive,,N0073122,West Cliff (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20559,407206,90593,-1.8993,50.71491,Suspension Bridge,,W,West Overcliff Drive,,N0073122,West Cliff (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20560,407452,90328,-1.89583,50.71253,Bowling Green,,W,West Overcliffe Drive,,N0073122,West Cliff (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20561,407500,90364,-1.89514,50.71285,Bowling Green,,W,West Overcliffe Drive,,N0073122,West Cliff (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20562,407523,90447,-1.89482,50.71359,Milner Road,,NW,West Overcliff Drive,,N0073122,West Cliff (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20563,407517,90478,-1.8949,50.71387,Milner Road,,S,West Overcliff Drive,,N0073122,West Cliff (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20564,407637,90472,-1.8932,50.71382,Cherry Tree Walk,,SE,West Overcliff Drive,,N0073122,West Cliff (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20565,407676,90416,-1.89265,50.71331,Cherry Tree Walk,,NW,West Overcliff Drive,,N0073122,West Cliff (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20566,407786,90658,-1.89109,50.71549,Durley Chine Court,Opp,NE,West Overcliff Drive,,N0073122,West Cliff (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20567,407811,90673,-1.89073,50.71562,Durley Chine Court,,SW,West Overcliff Drive,,N0073122,West Cliff (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20568,407685,90700,-1.89252,50.71587,Chine Crescent Road,,W,West Cliff Road,,N0073122,West Cliff (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20569,407445,90806,-1.89591,50.71682,Clarendon Road,,W,West Cliff Road,,N0073122,West Cliff (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20570,407086,90943,-1.901,50.71806,St Ambrose Church,,N,West Cliff Road,,E0035400,Westbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20571,407146,90909,-1.90015,50.71775,St Ambrose Church,,SE,West Overcliff Drive,,E0035400,Westbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20572,407453,90817,-1.8958,50.71692,Clarendon Road,,E,West Cliff Road,,N0073122,West Cliff (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20573,407705,90713,-1.89223,50.71598,Chine Crescent Road,,E,West Cliff Road,,N0073122,West Cliff (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20574,407933,90759,-1.889,50.71639,Admirals Walk,,E,West Cliff Road,,N0073122,West Cliff (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20575,407935,90747,-1.88898,50.71629,Admirals Walk,,W,West Cliff Road,,N0073122,West Cliff (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20576,408202,90776,-1.88519,50.71654,Savoy Hotel,,E,West Cliff Road,,N0073122,West Cliff (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20577,408233,90766,-1.88475,50.71645,Savoy Hotel,,W,West Cliff Road,,N0073122,West Cliff (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20578,408113,90978,-1.88645,50.71836,West Hill Road,,NW,West Hill Road,,N0073122,West Cliff (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOB20579,408085,91018,-1.88684,50.71872,West Hill Road,,SE,West Hill Road,,N0073122,West Cliff (Bournemouth),BCT,Bus/coach stop,small_red
+1290BOT11618,406789,91555,-1.90519,50.72357,County Gates,,E,Poole Road,,E0035400,Westbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOA10381,408510,91290,-1.88082,50.72116,Bournemouth Square,,NW,Bourne Avenue,,E0057149,Bournemouth,BCT,Bus/coach stop,small_red
+1290DOB20913,408353,96173,-1.88293,50.76508,Saxonhurst Road,opposite,SE,Wimborne Road,,E0035386,Redhill (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB20914,408443,96094,-1.88166,50.76436,Saxonhurst Road,,W,Wimborne Road,,E0035386,Redhill (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB20915,408593,95995,-1.87953,50.76347,Headswell Avenue,,NW,Wimborne Road,,E0035386,Redhill (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB20916,408641,95950,-1.87885,50.76307,Headswell Avenue,opposite,SE,Wimborne Road,,E0035386,Redhill (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB20917,408887,95857,-1.87537,50.76223,Redhill Roundabout,,SE,Whitelegg Way,,E0035386,Redhill (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB20961,408336,93500,-1.88323,50.74104,Osborne Road,,E,Talbot Road,,E0035402,Winton (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB20962,408367,93477,-1.88279,50.74083,Osborne Road,,NW,Talbot Road,,E0035402,Winton (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB20963,408536,93415,-1.8804,50.74027,Winton Banks,,E,Talbot Road,,E0035402,Winton (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB20964,408537,93403,-1.88039,50.74016,Winton Banks,,W,Talbot Road,,E0035402,Winton (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB20991,408023,95582,-1.88762,50.75977,Saxonhurst Road,,SE,Leybourne Avenue,,E0035382,Northbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB20992,407998,95617,-1.88798,50.76008,Saxonhurst Road,,N,Leybourne Avenue,,E0035382,Northbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB20994,407838,95906,-1.89024,50.76268,Palfrey Road,,NW,Leybourne Avenue,,E0035382,Northbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB20995,407886,95830,-1.88956,50.762,Palfrey Road,,S,Leybourne Avenue,,E0035382,Northbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB20996,407736,96094,-1.89168,50.76437,Gillam Road,,SE,Leybourne Avenue,,E0035382,Northbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB20997,407709,96098,-1.89207,50.76441,Gillam Road,,NW,Leybourne Avenue,,E0035382,Northbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21032,409857,94479,-1.86165,50.74982,Malvern Road Bottom,,W,Malvern Road,,E0035367,Charminster (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21033,409842,94482,-1.86186,50.74985,Malvern Road Bottom,,E,Malvern Road,,E0035367,Charminster (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21059,408707,94094,-1.87796,50.74638,Winton Library,,S,Wimborne Road,,E0035402,Winton (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21060,408677,93967,-1.87839,50.74523,Peters Hill,,N,Wimborne Road,,E0035402,Winton (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21061,408682,93920,-1.87832,50.74481,Peters Hill,,S,Wimborne Road,,E0035402,Winton (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21062,408634,93645,-1.87901,50.74234,Wycliffe Road,,N,Wimborne Road,,E0035402,Winton (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21063,408640,93620,-1.87892,50.74211,Wycliffe Road,,S,Wimborne Road,,E0035402,Winton (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21064,408609,93463,-1.87937,50.7407,Winton Banks,,N,Wimborne Road,,E0035402,Winton (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21065,408597,93283,-1.87954,50.73908,Winton Banks,,S,Wimborne Road,,E0035402,Winton (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21066,408574,93225,-1.87987,50.73856,Stirling Road,,N,Wimborne Road,,E0035402,Winton (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21068,408678,93353,-1.87839,50.73971,Winton Banks,,E,Alma Road,,E0035402,Winton (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21069,408646,93353,-1.87884,50.73971,Winton Banks,,W,Alma Road,,E0035402,Winton (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21071,408999,93259,-1.87384,50.73886,Stoke Wood Road,,W,Alma Road,,E0035402,Winton (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21072,409080,93247,-1.8727,50.73875,Stokewood Road,,W,Alma Road,,E0035402,Winton (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21073,409217,93198,-1.87075,50.73831,Heron Court Road,,W,Alma Road,,E0035402,Winton (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21074,409376,93164,-1.8685,50.738,Heron Court Road,,E,Alma Road,,E0035402,Winton (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21075,409870,93791,-1.86149,50.74363,Five Ways,,N,Charminster Road,,E0035367,Charminster (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21076,409898,93699,-1.86109,50.7428,Five Ways,,S,Charminster Road,,E0035367,Charminster (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21077,409811,93548,-1.86233,50.74145,Markham Road,,NE,Charminster Road,,E0035367,Charminster (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21078,409729,93406,-1.86349,50.74017,St Albans Road,,S,Charminster Road,,E0035367,Charminster (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21079,409717,93271,-1.86367,50.73896,St. Albans Church,,S,Charminster Road,,E0035367,Charminster (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21080,409698,93225,-1.86394,50.73854,St. Albans Church,,N,Charminster Road,,E0035367,Charminster (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21081,409678,93097,-1.86422,50.73739,Richmond Wood Road,,SW,Charminster Road,,E0035367,Charminster (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21082,409570,92957,-1.86576,50.73614,The Richmond Arms,,SW,Charminster Road,,E0035367,Charminster (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21083,409588,92987,-1.8655,50.73641,The Richmond Arms,,NE,Charminster Road,,E0035367,Charminster (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21084,409459,92869,-1.86733,50.73535,Malmesbury Park Road,,SW,Charminster Road,,E0035367,Charminster (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21085,409424,92855,-1.86783,50.73522,Malmesbury Park Road,,NE,Charminster Road,,E0035367,Charminster (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21086,409295,92739,-1.86966,50.73418,Lowther Road,,SW,Charminster Road,,E0035367,Charminster (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21087,409266,92727,-1.87007,50.73407,Lowther Road,,NE,Charminster Road,,E0035367,Charminster (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21090,409295,93216,-1.86965,50.73847,Heron Court Road,Opp,N,Heron Court Road,,E0035402,Winton (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21091,409312,93430,-1.8694,50.74039,Maxwell Road,,N,Heron Court Road,,E0035402,Winton (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21092,409332,93493,-1.86912,50.74096,Maxwell Road,,S,Heron Court Road,,E0035402,Winton (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21093,409344,93619,-1.86894,50.74209,Markham Road,,N,Abbott Road,,E0035402,Winton (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21094,409360,93672,-1.86872,50.74257,Markham Road,,S,Abbott Road,,E0035402,Winton (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21095,409337,93820,-1.86904,50.7439,Green Road,,E,Green Road,,E0035402,Winton (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21096,409340,93811,-1.869,50.74382,Green Road,Opp,W,Green Road,,E0035402,Winton (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21097,409291,93938,-1.86969,50.74496,Pine Road,,N,Ripon Road,,E0035402,Winton (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21098,409301,93940,-1.86955,50.74498,Pine Road,,S,Ripon Road,,E0035402,Winton (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21099,409337,94172,-1.86903,50.74707,Shirley Road,,W,Castle Road,,E0035402,Winton (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21100,409385,94166,-1.86835,50.74701,Shirley Road,,E,Castle Road,,E0035402,Winton (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21101,409428,94150,-1.86774,50.74687,Southill Road,,W,Gresham Road,,E0035402,Winton (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21102,409621,94129,-1.86501,50.74668,Gresham Road,,E,Gresham Road,,E0035367,Charminster (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21103,409650,94156,-1.86459,50.74692,Gresham Road,,S,Charminster Avenue,,E0035367,Charminster (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21104,409591,94350,-1.86543,50.74866,Charminster Avenue,,N,Charminster Avenue,,E0035367,Charminster (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21105,409599,94356,-1.86531,50.74872,Charminster Avenue,,S,Charminster Avenue,,E0035367,Charminster (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21106,409865,94050,-1.86155,50.74596,Charminster Library,opp,N,Charminster Road,,E0035367,Charminster (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21107,409875,94062,-1.86141,50.74607,The Library,,S,Charminster Road,,E0035367,Charminster (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21108,409891,94203,-1.86118,50.74734,St Francis Church,,S,Charminster Road,,E0035367,Charminster (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21109,409889,94290,-1.8612,50.74812,St Francis Church,,N,Charminster Road,,E0035367,Charminster (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21110,409950,94594,-1.86033,50.75085,Uplands Road,,S,Charminster Road,,E0035367,Charminster (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21111,409949,94635,-1.86034,50.75122,Uplands Road,,N,Charminster Road,,E0035367,Charminster (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21112,410109,94933,-1.85807,50.7539,Broadway,,NE,Charminster Road,,E0035367,Charminster (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21113,410128,94935,-1.8578,50.75392,Broadway Tavern,,SW,Charminster Road,,E0035367,Charminster (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21114,410186,95061,-1.85697,50.75505,The Electric Club,,NE,Broadway Lane,,E0035367,Charminster (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21121,410743,95876,-1.84905,50.76237,Throop Church,,SW,Broadway Lane,,E0035394,Throop (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21132,409896,94014,-1.86111,50.74564,Charminster Library,,E,Strouden Avenue,,E0035367,Charminster (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21133,410123,93958,-1.85789,50.74513,The Crematorium,,E,Ashling Close,,E0035402,Winton (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21160,410402,94787,-1.85392,50.75258,Mill Road,,W,Castle Lane West,,E0035367,Charminster (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21161,410216,94948,-1.85655,50.75403,Broadway Tavern,,SE,Castle Lane West,,E0035367,Charminster (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21162,410526,94736,-1.85216,50.75212,Mill Road,,E,Castle Lane West,,E0035367,Charminster (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21163,409936,93767,-1.86055,50.74341,Five Ways Hotel,Opp,SE,Queen's Park Avenue,,E0035367,Charminster (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21164,410048,93346,-1.85897,50.73963,Howard Road,,S,St Abans Avenue,,E0035402,Winton (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21170,410246,93014,-1.85618,50.73664,Bennett Road,,W,Richmond Park Road,,E0035402,Winton (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21171,409992,93021,-1.85978,50.73671,Howard Road,,W,Richmond Park Road,,E0035402,Winton (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21172,409688,93026,-1.86408,50.73676,Charminster,,W,Richmond Park Road,,E0035367,Charminster (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21173,409665,93042,-1.86441,50.7369,Charminster,,E,Richmond Park Road,,E0035367,Charminster (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21174,410067,93028,-1.85871,50.73677,Howard Road,,E,Richmond Park Road,,E0035402,Winton (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21176,412734,94021,-1.82089,50.74565,Bournemouth Hospital,,NE,Deansleigh Road,,E0035378,Littledown (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21177,413240,93632,-1.81373,50.74214,Cheriton Avenue,,SE,Castle Lane East,,E0035376,Iford (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21178,413259,93609,-1.81346,50.74193,Cheriton Avenue,,NW,Castle Lane East,,E0035376,Iford (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21179,413447,93502,-1.8108,50.74096,Iford Roundabout,,SE,Iford Gardens,,E0035376,Iford (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21181,413511,93435,-1.80989,50.74036,Iford Roundabout,,NW,Castle Lane East,,E0035376,Iford (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21182,412965,93789,-1.81762,50.74355,Castle Lane Tesco,,NW,Castle Lane East,,E0035378,Littledown (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21183,412622,93997,-1.82247,50.74543,Littledown Centre,,NW,Castle Lane East,,E0035378,Littledown (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21184,412895,93866,-1.81861,50.74425,Castle Lane Tesco,,SE,Castle Lane East,,E0035378,Littledown (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21185,413105,93547,-1.81564,50.74137,St Peters School,,S,Holdenhurst Avenue,,E0035376,Iford (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21186,413101,93513,-1.8157,50.74107,St Peters School,,N,Holdenhurst Avenue,,E0035376,Iford (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21187,412843,93378,-1.81936,50.73986,Warnford Road,,NE,Petersfield Road,,E0035376,Iford (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21188,412827,93350,-1.81959,50.73961,Warnford Road,,SW,Petersfield Road,,E0035376,Iford (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21189,412689,93234,-1.82155,50.73857,Bicknell School,,SW,Petersfield Road,,E0035376,Iford (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21190,412644,93204,-1.82219,50.7383,Bicknell School,,NE,Petersfield Road,,E0035376,Iford (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21191,412463,92946,-1.82476,50.73598,Durrington Road,,S,Petersfield Road,,E0035376,Iford (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21192,412451,92932,-1.82493,50.73586,Durrington Road,,N,Petersfield Road,,E0035376,Iford (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21193,412132,93012,-1.82945,50.73658,Avonbourne School,,NW,Harewood Avenue,Avonbourne School,E0035378,Littledown (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21194,412098,93056,-1.82993,50.73698,Avonbourne School,,SE,Harewood Avenue,,E0035378,Littledown (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21195,411830,93143,-1.83373,50.73777,Glencoe Road,,W,Littledown Avenue,,E0035378,Littledown (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21196,411762,93133,-1.83469,50.73768,Glencoe Road,,E,Littledown Avenue,,E0035378,Littledown (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21197,411575,93085,-1.83734,50.73725,Bishops Close,,W,Littledown Avenue,,E0035378,Littledown (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21198,411607,93099,-1.83689,50.73738,Bishops Close,,E,Littledown Avenue,,E0035378,Littledown (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21199,411319,93030,-1.84097,50.73676,Thistlebarrow Road,,W,Littledown Avenue,,E0035378,Littledown (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21200,411344,93044,-1.84062,50.73689,Thistlebarrow Road,,E,Littledown Avenue,,E0035378,Littledown (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21203,413558,93385,-1.80923,50.73991,Iford Roundabout,,SW,Christchurch Road,,E0035376,Iford (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21204,413522,93369,-1.80974,50.73976,Iford Roundabout,,NE,Christchurch Road,,E0035376,Iford (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21205,413402,93183,-1.81145,50.73809,Exton Road,,SW,Christchurch Road,,E0035376,Iford (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21206,413232,92982,-1.81386,50.73629,Warnford Road,,SW,Christchurch Road,,E0035376,Iford (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21207,413027,92789,-1.81678,50.73456,Hambledon Road,,SW,Christchurch Road,,E0035376,Iford (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21209,412707,92529,-1.82132,50.73223,St James School,Opp,SW,Christchurch Road,,E0035376,Iford (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21210,412727,92549,-1.82104,50.73241,St James School,,NE,Christchurch Road,,E0035376,Iford (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21217,412008,92135,-1.83124,50.7287,Parkwood Road,,W,Christchurch Road,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21218,411711,92009,-1.83545,50.72757,Portman Road,,W,Christchurch Road,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21219,411667,92007,-1.83607,50.72756,Ashley Road,,E,Christchurch Road,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21220,411832,92076,-1.83373,50.72817,Portman Road,,E,Christchurch Road,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21223,413091,92851,-1.81587,50.73512,Hambledon Road,,NE,Christchurch Road,,E0035376,Iford (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21224,413312,93087,-1.81273,50.73723,Warnford Road,,NE,Christchurch Road,,E0035376,Iford (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOB21225,413424,93228,-1.81113,50.7385,Exton Road,,NE,Christchurch Road,,E0035376,Iford (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOZ04830,410075,94273,-1.85857,50.74796,Summerbee Schools,,W,East Way,,E0035367,Charminster (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOZ04832,410001,94285,-1.85962,50.74807,Bournemouth School For Boys,,E,East Way,,E0035367,Charminster (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOZ04839,411523,92062,-1.83811,50.72805,Boscombe Bus Station,Bay B,NW,Ashley Road,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOZ04840,411533,92057,-1.83797,50.72801,Boscombe Bus Station,Bay B,NW,Ashley Road,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOZ04841,411506,92058,-1.83835,50.72802,Boscombe Bus Station,Bay E,NW,Ashley Road,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOZ04842,411519,92049,-1.83817,50.72794,Boscombe Bus Station,Bay D,NW,Ashley Road,,E0035366,Boscombe (Bournemouth),BCT,Bus/coach stop,small_red
+1290DOZ04917,408969,95785,-1.87421,50.76158,Redhill Roundabout,,SE,Wimborne Road,,E0035386,Redhill (Bournemouth),BCT,Bus/coach stop,small_red
+1290POZ00751,407673,91406,-1.89267,50.72222,Suffolk Road,,N,Queens Road,,E0035400,Westbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290WDX38480,408869,95799,-1.87562,50.76171,Redhill Roundabout,,E,Redhill Drive,,E0035386,Redhill (Bournemouth),BCT,Bus/coach stop,small_red
+1290WDX38483,414664,91553,-1.79363,50.72341,St Peters School,,SE,St Catherines Road,,E0035387,Southbourne (Bournemouth),BCT,Bus/coach stop,small_red
+1290WDY38476,408528,95571,-1.88046,50.75966,Redhill Drive,o/s 53,SW,Sandy Way,,E0035386,Redhill (Bournemouth),BCT,Bus/coach stop,small_red
+1290WDY38477,408529,95553,-1.88045,50.7595,Redhill Drive,o/s 52,SW,Redhill Drive,,E0035386,Redhill (Bournemouth),BCT,Bus/coach stop,small_red
+1290WDY38478,408638,95710,-1.8789,50.76091,Redhill Drive,,SW,Redhill Drive,,E0035386,Redhill (Bournemouth),BCT,Bus/coach stop,small_red
+1290WDY38479,408870,95789,-1.87561,50.76162,Wimborne Road Roundabout,,W,Redhill Drive,,E0035386,Redhill (Bournemouth),BCT,Bus/coach stop,small_red
+9200BOH1,411850,97550,-1.8333,50.7774,Bournemouth International Airport,,NA,-,,N0064859,Bournemouth International Airport,GAT,"Airport, airport stop",large_yellow
+9100BOMO,409700,92000,-1.86394,50.72753,Bournemouth Rail Station,,NA,-,,E0057149,Bournemouth,RLY,Rail,small_green
