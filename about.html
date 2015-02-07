@@ -42,15 +42,27 @@
 		</div>
 		<div id="navbar" class="navbar-collapse collapse">
 		  <ul class="nav navbar-nav">
-		    <li class="active"><a href="heatmap1.html">Aerial distance</a></li>
+		    <li><a href="heatmap1.html">Aerial distance</a></li>
 		    <li><a href="heatmap2.html">Walking distance</a></li>
-		    <li><a href="about.html">About</a></li>
+		    <li class="active"><a href="about.html">About</a></li>
 		  </ul>
 		</div><!--/.nav-collapse -->
 	      </div>
 	    </nav>
 
-		<div class="heatmap" id="map-canvas" style="width: 100%; height: 500px"></div>
+		<div class="container">
+		<h2>Author</h2>
+		<a href="http://draxus.org/">Manuel Martin Salvador</a> is currently a researcher in Machine Learning working in Bournemouth University.
+
+		<h2>About</h2>
+		<p>This project was made during <a href="http://hackbmth.org/events/civic-hackday-transport-part-two/">civic hackday</a> on 7th Feb 2015 organized by <a href="http://hackbmth.org">Hackbmth</a>.</p>
+		<p>During the search of accommodation, many factors are taken into account like price, nearby facilities, etc. Another aspect to consider by many people is the distance to a bus stop in case they need to travel often to work. There is currently not available way of visualizing such information easily in a map in the UK. That is the motivation for developing this project.</p>
+		<p>A similar poject was made <a href="http://thejeshgn.com/2013/11/29/bmtc-bus-stop-accessibility/">in Bangalore</a>, where a heatmap is used for showing what areas are covered by a bus stop. I have developed a similar implentation using the bus stops in Bournemouth with the <a href="http://data.gov.uk/dataset/naptan">data released by the UK government</a>.</p>
+		<p>However, such maps only take into account the aerial distance which is only realistic if we have an <a href="https://en.wikipedia.org/wiki/Autogyro">autogyro</a> (in which case we wouldn't travel by bus :)). An alternative map showing the real walking distance to the bus stops is required. The method I have developed creates a grid around the bus stop and calculate the walking distance from each point in the grid to the bus stop using <a href="http://www.routino.org/">routino</a> (a router for OpenStreetMap). Then, such data is visualized using a heatmap. Nevertheless, the representation can still be improved. During the developing of this project I found that <a href="https://developers.route360.net/">Route360</a> is actually working on the same thing but currently is only available for Berlin.</p>
+		<h2>Source Code</h2>
+		<p>Source code and data used in this project is realeased under Public Domain in Github: <a href="https://github.com/DraXus/bus-coverage-heatmap">https://github.com/DraXus/bus-coverage-heatmap</a></p>
+		</div>
+
 
 		<div class="panel panel-default">
 		  <div class="panel-heading">Powered by</div>
@@ -63,66 +75,5 @@
 		  </div>
 		</div>
 
-		<script type="text/javascript" charset="utf-8">
-			window.onload = function(){
-
-				var data = (function() {
-					var json = null;
-					$.ajax({
-					    'async': false,
-					    'global': false,
-					    'url': "data/bournemouth_filtered.json",
-					    'dataType': "json",
-					    'success': function (data) {
-						json = data;
-					    },
-					    'error': function(e){
-						console.log(e);
-					    }
-					});
-					return json;
-				    })();
-
-				if(data==null){
-					alert("Data cannot be loaded!");
-				}
-
-				var baseLayer = L.tileLayer(
-				  'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{
-				    attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://cloudmade.com">CloudMade</a>',
-				    maxZoom: 18
-				  }
-				);
-
-				var cfg = {
-				  // radius should be small ONLY if scaleRadius is true (or small radius is intended)
-				  "radius": 20,
-				  "maxOpacity": .8, 
-				  // scales the radius based on map zoom
-				  "scaleRadius": false, 
-				  // if set to false the heatmap uses the global maximum for colorization
-				  // if activated: uses the data maximum within the current map boundaries 
-				  //   (there will always be a red spot with useLocalExtremas true)
-				  "useLocalExtrema": false,
-				  // which field name in your data represents the latitude - default "lat"
-				  latField: 'lat',
-				  // which field name in your data represents the longitude - default "lng"
-				  lngField: 'lng',
-				  // which field name in your data represents the data value - default "value"
-				  valueField: 'count'
-				};
-
-
-				var heatmapLayer = new HeatmapOverlay(cfg);
-
-				var map = new L.Map('map-canvas', {
-				  center: new L.LatLng(50.7273249, -1.8576807),
-				  zoom: 12,
-				  layers: [baseLayer, heatmapLayer]
-				});
-
-				heatmapLayer.setData(data);
-			};
-		</script>
 	</body>
 </html>
